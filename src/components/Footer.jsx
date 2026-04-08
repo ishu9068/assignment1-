@@ -1,6 +1,8 @@
 function Footer() {
   return (
-    <h1>Footer</h1>
+    <footer className="bg-black text-white text-center p-4">
+      <p>© 2026 MobileHub. All rights reserved.</p>
+    </footer>
   );
 }
 
