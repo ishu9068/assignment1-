@@ -1,11 +1,17 @@
-import './App.css'
-function App() {
+import Navbar from "./components/Navbar";
+import Hero from "./components/Hero";
+import Features from "./components/Features";
+import Footer from "./components/Footer";
 
+function App() {
   return (
-  <>
-  <h1 className='bg-yellow-700 text-white p-4'>Hello, World!</h1>
-  </>
-  )
+    <>
+      <Navbar />
+      <Hero />
+      <Features />
+      <Footer />
+    </>
+  );
 }
 
-export default App
+export default App;
