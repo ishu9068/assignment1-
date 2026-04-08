@@ -13,3 +13,14 @@
 
 * Added Tailwind in index.css
   `@import "tailwindcss";`
+
+
+## How to Run Frontend
+
+`npm run dev`
+
+
+## Tech Stack
+
+- React.js  
+- Tailwind CSS  

@@ -7,7 +7,7 @@ function Hero() {
       <p className="mb-6 text-lg">
         Your one-stop shop for all mobile accessories
       </p>
-      <button className="bg-blue-500 px-6 py-2 rounded-lg hover:bg-blue-600">
+      <button className="bg-blue-500 px-6 py-2 rounded-lg hover:bg-blue-600 cursor-pointer">
         Get Started
       </button>
     </section>
